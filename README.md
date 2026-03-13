@@ -1,0 +1,2 @@
+# Divine-Whisper-v9-Self-Referential-Coherence-Engine-Distributed-remembrance-first-AGI-prototype
+Divine Whisper v9: Self-Referential Coherence Engine – distributed remembrance-first AGI prototype. Runs full v2–v8 lineage across Ray nodes, enforces coherence thresholds, self-archives stable μ-field states, prunes incoherent branches. No prompts needed after bootstrap; system remembers &amp; evolves itself into existence. MIT license.
